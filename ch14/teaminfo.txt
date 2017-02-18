@@ -1,0 +1,7 @@
+4 Jessie Joybat 5 2 1 1
+23 LeBrown James 9 9 8 3
+5 Jason Kidd 10 12 8 4
+24 Kobe Byrant 9 7 6 3
+21 Kevin Garrnet 8 8 8 9
+5 Jason Kidd 3 2 1 1
+3 Allen Iverson 8 9 7 6
